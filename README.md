@@ -1,4 +1,4 @@
-# bbChecklist
+# BountyChecklist
 
 Scoping:
 - crt.sh
