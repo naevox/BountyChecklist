@@ -1,6 +1,6 @@
 # BountyChecklist
 
-Scoping:
+Scoping (getting URLs which are available on the scope.)
 - crt.sh
 - Sublist3r
 
