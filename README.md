@@ -13,5 +13,4 @@ done < url-list.txt
 
 screenshot live hosts:
 - eyewitness
-
-Nmap
+- Nmap is used to enumerate the host incase port is anything other than 80 for HTTP
