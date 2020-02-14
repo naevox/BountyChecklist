@@ -2,6 +2,7 @@
 
 Step 1 (scoping)
 - Domain scraping with: crt.sh, Sublist3r, censys
+- nmap default port scan for host discovery
 - nmap -sn (ICMP) -Pn (treat all as online) -n (No DNS resolution) -iL <sublist.txt> -o output.txt
 - add to scope on Burp for more features such as sitemap and HTML rendering of sites
 - screenshot live hosts using: eyewitness
