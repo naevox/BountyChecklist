@@ -10,3 +10,17 @@ Step 1 (scoping)
 - Nmap is used to enumerate the host incase port is anything other than 80 for HTTP
 - gobuster for subdomain enumeration
 - wfuzz for possible attack manual enumeration
+
+Finding IP spaces (domain scraping)
+- bgp.he.net - search internet services by key word for whois enumeration.
+- https://www.arin.net/
+- https://www.ripe.net/
+- https://reverse.report/
+- Shodan to search for sites which have key words
+
+Acquisitions (side companies which may be in scope)
+- Wikipedia
+- crunchbase
+
+Linked discovery
+- Burp (using burp while navigating the website will spider the website passively)
