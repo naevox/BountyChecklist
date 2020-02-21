@@ -24,4 +24,3 @@ Acquisitions (side companies which may be in scope)
 
 Linked discovery
 - Burp (using burp while navigating the website will spider the website passively)
-bob
