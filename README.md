@@ -1,5 +1,9 @@
 # BountyChecklist
 
+ADD THESE TOOLS
+https://www.youtube.com/watch?v=1J7dWJMEnl8
+
+
 Step 1 (scoping)
 - Domain scraping with: crt.sh, Sublist3r, censys
 - nmap default port scan for host discovery
