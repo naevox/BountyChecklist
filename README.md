@@ -3,6 +3,7 @@
 ADD THESE TOOLS
 https://www.youtube.com/watch?v=1J7dWJMEnl8
 
+https://github.com/s0md3v/Striker
 
 Step 1 (scoping)
 - Domain scraping with: crt.sh, Sublist3r, censys
