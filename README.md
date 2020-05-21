@@ -2,7 +2,7 @@
 
 ADD THESE TOOLS
 https://www.youtube.com/watch?v=1J7dWJMEnl8
-
+https://www.youtube.com/watch?v=52xkWbDMUUM
 https://github.com/s0md3v/Striker
 
 Step 1 (scoping)
